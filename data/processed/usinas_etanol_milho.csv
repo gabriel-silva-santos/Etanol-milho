@@ -1,0 +1,25 @@
+nome_usina,estado,municipio,ano_inicio_operacao,capacidade_diaria_mil_L,tipo_producao,produz_ddg,latitude,longitude
+FS Bioenergia - Lucas do Rio Verde,MT,Lucas do Rio Verde,2012,1500,Hidratado+Anidro,True,-13.05,-55.91
+FS Bioenergia - Sorriso,MT,Sorriso,2016,1200,Hidratado+Anidro,True,-12.55,-55.72
+Atvos - Mato Grosso,MT,Campos de Júlio,2018,800,Hidratado,True,-13.03,-59.27
+Brejeiro Energia,MT,Barra do Garças,2019,400,Hidratado,False,-15.9,-52.26
+Agroindustrial Coprodia,MT,Rondonópolis,2019,350,Hidratado+Anidro,True,-16.47,-54.64
+Rio Claro Agroindustrial,MT,Primavera do Leste,2020,600,Hidratado+Anidro,True,-15.56,-54.3
+Usimat - Sapezal,MT,Sapezal,2020,500,Hidratado,True,-13.54,-58.82
+Cerealista Paiaguás,MT,Campo Novo do Parecis,2021,450,Hidratado,True,-13.67,-57.79
+Cooperativa Agrária,PR,Guarapuava,2019,300,Hidratado+Anidro,True,-25.39,-51.46
+Goiás Verde Bioenergia,GO,Rio Verde,2018,700,Hidratado+Anidro,True,-17.8,-50.93
+Bioenergética Aroeira,GO,Jataí,2020,500,Hidratado,True,-17.88,-51.71
+Jalles Machado (milho),GO,Goianésia,2021,600,Hidratado+Anidro,True,-15.32,-49.12
+Usina Itumbiara Bioenergia,GO,Itumbiara,2022,400,Hidratado+Anidro,True,-18.42,-49.22
+Alto Taquari Bioenergia,MT,Alto Taquari,2021,350,Hidratado,True,-17.82,-53.98
+Raízen Milho - MT,MT,Sinop,2022,800,Hidratado+Anidro,True,-11.86,-55.5
+Granol Bioenergia,GO,Chapadão do Sul,2022,450,Hidratado+Anidro,True,-18.79,-52.62
+Agrosoja Bioenergia,MT,Sorriso,2023,400,Hidratado,True,-12.55,-55.72
+Mato Grosso Bioenergia,MT,Tangará da Serra,2023,500,Hidratado+Anidro,True,-14.62,-57.5
+Cerrado Bioenergia,GO,Mineiros,2023,600,Hidratado+Anidro,True,-17.34,-52.53
+Pantanal Bioenergia,MT,Cáceres,2023,350,Hidratado,False,-16.07,-57.68
+Goiás Bioenergia,GO,Quirinópolis,2024,500,Hidratado+Anidro,True,-18.45,-50.45
+Triangulo Bioenergia,MG,Uberaba,2024,400,Hidratado+Anidro,True,-19.75,-47.95
+Midwest Etanol,MT,Nova Mutum,2024,600,Hidratado+Anidro,True,-13.83,-55.41
+Serra do Caiapó Bioenergia,GO,Caiapônia,2024,450,Hidratado,True,-16.96,-51.81
